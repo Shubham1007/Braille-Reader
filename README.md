@@ -1,0 +1,2 @@
+# Braille_Reader
+Braille Reader can translate a page in Braille to English within seconds. The raised dots of a Braille Page are detected by the Braille Reader which is then cross referenced with the database to get the correct character. At first, the image is convert to grayscale and the shadow is removed. This leaves the image with major colors – the majority of main paper (bit greyish color), the top of the raised dot
